@@ -1,2 +1,7 @@
 # hello-world
-2nd repository
+
+Hi Humans!
+
+I'm not a robot.
+I like Techno.
+
